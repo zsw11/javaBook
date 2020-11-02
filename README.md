@@ -86,7 +86,7 @@
 
 - Head First Java       [百度云下载链接](https://pan.baidu.com/s/14VZolSYQcyGKaG2WRpPB_w) 提取码:c07s 
 - Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/1Um_boa6CusUAfjIY6x6Gzw) 提取码:1fvj 
-- Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1oS94BGEyCF5AYEQQ2b8A6Q) 提取码:9q9r 
+- Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1cQYOWEMmHy8Z60I_NXRqug)  密码:9xcr
 - Java 8 实战       [百度云下载链接](https://pan.baidu.com/s/1h377QitObb4cbwXgTuV8Ww) 提取码:nfbm 
 - Java 核心知识点整理       [百度云下载链接](https://pan.baidu.com/s/1AkY43NQeejg4SON8PtSnOg) 提取码:e6tl 
 - Java 基础核心总结       [百度云下载链接](https://pan.baidu.com/s/1vFDVc214I00m3VGbZkHxLA) 提取码:x2qi 
@@ -281,25 +281,20 @@
 - 2020年字节跳动Java 工程师面试题       [百度云下载链接](https://pan.baidu.com/s/1i0YAOKxUl59wP_9yKbeOKA)  密码:iozq
 - BAT面试常问80题       [百度云下载链接](https://pan.baidu.com/s/1l7UnWRdPwoQEINhHUmOmFw)  密码:c54x
 - 一线互联网企业面试题       [百度云下载链接](https://pan.baidu.com/s/11Nn8dLzh4npR02FWZSGGbA)  密码:wjrr
-
 - 编程之美       [百度云下载链接](https://pan.baidu.com/s/1sMG_Kp66XVRidLNFNd2Znw)  密码:ng5q
 - 程序员面试宝典       [百度云下载链接](https://pan.baidu.com/s/1fFVY_-grQjClqnI22QQXDA)  密码:6rr8
 - 剑指Offer：名企面试官精讲典型编程题       [百度云下载链接](https://pan.baidu.com/s/14knPPFXiEmxivaS3g0V86w)  密码:lbsn
 - 程序员代码面试指南 IT名企算法与数据结构题目最优解       [百度云下载链接](https://pan.baidu.com/s/1s1EA_hrzSnVsQYos4N_cYA)  密码:0djm
-
 - 如何刷力扣       [百度云下载链接](https://pan.baidu.com/s/1q9n68HzyjoqnUBnMZxCDQg)  密码:h14s
 - 力扣最优解       [百度云下载链接](https://pan.baidu.com/s/1MQwORt4unKtudXXAOxZt-Q)  密码:o28k
-
 - 2020最新Java面试题资料       [百度云下载链接](https://pan.baidu.com/s/1jO64IiD71gSJcTZmSV3GOA)  密码:mlf8
 - 最新Java程序员面试宝典       [百度云下载链接](https://pan.baidu.com/s/1hBU4pIDThFoqjvQY7HnB3g)  密码:u5gh
 - JavaGuide 面试突击       [百度云下载链接](https://pan.baidu.com/s/1-vv1FaEIuZCxsz-oemZ91w)  密码:e0p4
 - Java 核心面试知识整理       [百度云下载链接](https://pan.baidu.com/s/1OM0axrB6QFG0bJHbIG6_wA)  密码:387r
 - Java面试题以及答案       [百度云下载链接](https://pan.baidu.com/s/1W_1c7Jr2sdsHh3khJ2BCvg)  密码:y4ef
-
 - 面试必问之jvm与性能优化       [百度云下载链接](https://pan.baidu.com/s/1M5w3XrffI4GtK_NBRdJnaQ)  密码:y6iu
 - Spring 面试题       [百度云下载链接](https://pan.baidu.com/s/15LVGuBYEkPZH9vvP-CQ48Q)  密码:77ud
 - Dubbo 面试题       [百度云下载链接](https://pan.baidu.com/s/1Pe8VB8nQz54Los6L_OP6dg)  密码:cl5a
-
 - 简历模板与优化       [百度云下载链接](https://pan.baidu.com/s/1YtMtFXY6CJjVaajSiV58SA)  密码:1cb0
 
 # 大数据
@@ -477,29 +472,21 @@
 
 - 《阿里技术参考图册》（算法篇）       [百度云下载链接](https://pan.baidu.com/s/1DdT84xRPa4SHmH2SQoRZ6w)  密码:4eev
 - 《阿里技术参考图册》（研发篇）       [百度云下载链接](https://pan.baidu.com/s/1xLJ2ArI93gCRa6b0cPBkrQ)  密码:hq1u
-
 - 程序员必知的硬核知识大全       [百度云下载链接](https://pan.baidu.com/s/1yCCvpQONyrwoSGsDlr1FWA)  密码:dp1p
-
 - how-to-be-a-programmer-cn       [百度云下载链接](https://pan.baidu.com/s/1iXTKzEH9B2JXHgWpC30cvA)  密码:kar9
 - 卓有成效的程序员       [百度云下载链接](https://pan.baidu.com/s/1m2yIHnILjpfW7Rkgm1wm_A)  密码:6511
 - 程序员的职业素养       [百度云下载链接](https://pan.baidu.com/s/1y2j39EIyWZrDxkFRWfUkWA)  密码:n2zg
 - 程序员内功修炼-V2.0       [百度云下载链接](https://pan.baidu.com/s/1GRaSU7qUrG7ZUoTzA1UJWA)  密码:xmg5
-
 - 设计原本（中文版）       [百度云下载链接](https://pan.baidu.com/s/1ZDm2FHYxroz1Z92E7Dkb8g)  密码:zaxe
-
 - 数学之美       [百度云下载链接](https://pan.baidu.com/s/1S0Q4mNthoQHIrEIqsHkGgQ)  密码:mbmh
 - 淘宝技术这十年       [百度云下载链接](https://pan.baidu.com/s/1_eJr9Hpcyf40FYDsnw2qKw)  密码:b4u6
-
 - 如何变得有思想  阮一峰博客文集       [百度云下载链接](https://pan.baidu.com/s/1fs-M7Q7zqRFCL7J_Tp7o9w)  密码:7yyh
 - 沉默的大多数       [百度云下载链接](https://pan.baidu.com/s/1TIy9PV58RAztfgqjYywvqw)  密码:6vcc
 - 香帅北大金融学课 线下大课       [百度云下载链接](https://pan.baidu.com/s/1Ob-nHo0-lLXcV0tzRXLXUg)  密码:cfcm
 - 学习学习再学习       [百度云下载链接](https://pan.baidu.com/s/1QbPJcnx_Yaceo__D_lRNLw)  密码:vup6
-
 - 学习正则表达式       [百度云下载链接](https://pan.baidu.com/s/1jqd1HBM8yTIZfciGJDSlSQ)  密码:icft
-
 - 自己动手写网络爬虫       [百度云下载链接](https://pan.baidu.com/s/17A7RAvY329DbrSon5lzFvw)  密码:cz9n
 - Ch3-Ch5-超人气博客是怎样炼成的       [百度云下载链接](https://pan.baidu.com/s/1UXArzgb_uSmKpGSkn3Kimg)  密码:34v0
-
 - 深入理解Nginx：模块开发与架构解析-陶辉       [百度云下载链接](https://pan.baidu.com/s/17PZYt-WJcfD5M_C0nQpcnA)  密码:k9zc
 - 深入剖析Tomcat-高清-书签       [百度云下载链接](https://pan.baidu.com/s/1xLGDAtoWptcj7Fv4NhrPyw)  密码:o77f
 - WEB服务_原理与技术       [百度云下载链接](https://pan.baidu.com/s/163eC6VcODfkkiedo6nPOMw)  密码:gvoc
