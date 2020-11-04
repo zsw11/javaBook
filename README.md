@@ -107,6 +107,7 @@
 - Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1wdoaqX37FyqxvXEAtIs_6A)  密码:daj5
 - Git 权威指南       [百度云下载链接](https://pan.baidu.com/s/19ilSDLTi_fKQfAtNsLV9NA)  密码:sdvy
 - Eclipse 插件开发学习笔记       [百度云下载链接](https://pan.baidu.com/s/1QmnVfn8iAR0ZnymnFHHTYw)  密码:ri78
+- 日志系统手册（Log4j、SLF4J、Logback、Log4j 2）       [百度云下载链接](https://pan.baidu.com/s/1dPwsQhT5OMVapE7hGi7vww)  密码:fxxy
 
 # 框架
 
