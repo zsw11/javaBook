@@ -19,6 +19,7 @@
   - [SQL](#SQL)
   - [MySQL](#MySQL)
   - [Redis](#Redis)
+  - [MongoDB](#MongoDB)
 - [05、并发编程](#并发编程)
 - [06、底层](#底层)
 - [07、性能优化](#性能优化)
@@ -112,7 +113,9 @@
 
 # 框架
 
+- SpringBoot实战(第4版)       [百度云下载链接](https://pan.baidu.com/s/1HWJRkmDvmITX7cWgsIBgRA)  密码:y6c6
 - MyBatis 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1cYpBIyfJYR4-J8aNNG9MZQ)  密码:8vjv
+- Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/195sp0sK2vGOJAMBTfVwHrQ)  密码:piv6
 
 ## Struts2
 
@@ -132,7 +135,7 @@
 - Netty 权威指南       [百度云下载链接](https://pan.baidu.com/s/1cjDt7j3KiQ-pNyB8AF7CBQ)  密码:4n6n
 - Netty 实战       [百度云下载链接](https://pan.baidu.com/s/1mBEwTjs-e-TQXKGwjx2dcg)  密码:gy3p
 
-- Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/195sp0sK2vGOJAMBTfVwHrQ)  密码:piv6
+
 
 # 数据库
 
@@ -145,6 +148,7 @@
 ## MySQL
 
 - MySQL 必知必会       [百度云下载链接](https://pan.baidu.com/s/1wUjTKeClvZ_i-Cpz_N14Ng)  密码:q9cu
+- 深入浅出MySQL       [百度云下载链接](https://pan.baidu.com/s/1jwBTcbMKMuTOeWXR44v-mQ)  密码:ri07
 - MySQL 技术内幕 innodb 存储引擎       [百度云下载链接](https://pan.baidu.com/s/1DggY3AfGGfNZvJaaDh6EKQ)  密码:uetn
 - MySQL 技术内幕 SQL 编程       [百度云下载链接](https://pan.baidu.com/s/1L7lqrHPHGEJEbweoBOLLnQ)  密码:wxzb
 - MySQL 性能调优与架构设计       [百度云下载链接](https://pan.baidu.com/s/1hHbIbpsu-7g76r54GUVCIg)  密码:1464
@@ -159,9 +163,13 @@
 - Redis 实战       [百度云下载链接](https://pan.baidu.com/s/1kyrS3935PIDWnBXB8HuVUA)  密码:otjw
 - Redis 源代码分析       [百度云下载链接](https://pan.baidu.com/s/1qpMGWYm8KS7yZE3k1ps0pw)  密码:8q33
 
+## MongoDB
+
+- MongoDB 权威指南       [百度云下载链接](https://pan.baidu.com/s/1mTlTzrVG5P-C0iXUz780Fg)  密码:zivs
+- MongoDB实战(第二版)       [百度云下载链接](https://pan.baidu.com/s/1M2kPlol1eBE6E2vvqvGl1Q)  密码:bhxe
+
 - 数据库系统基础教程       [百度云下载链接](https://pan.baidu.com/s/10aDnMcJiFooUEssYajBUmQ)  密码:nmee
 - 自己动手设计数据库       [百度云下载链接](https://pan.baidu.com/s/1ab0dwoxmpHU7BYPuDFLnSA)  密码:tj8g
-- MongoDB 权威指南       [百度云下载链接](https://pan.baidu.com/s/1mTlTzrVG5P-C0iXUz780Fg)  密码:zivs
 - SQL+Server+2008 实战       [百度云下载链接](https://pan.baidu.com/s/1jFssmyZd0jm7-v4N3VjIoQ)  密码:5m2v
 
 # 并发编程
@@ -224,8 +232,10 @@
 ## Linux基础知识
 
 - 鸟哥的 Linux 私房菜       [百度云下载链接](https://pan.baidu.com/s/1bRk0exP_8sVGwSGaZ8k8rw)  密码:yzsl
+- 循序渐进Linux（第2版）       [百度云下载链接](https://pan.baidu.com/s/18UplmU68Z_5nmpfzp-UG5Q)  密码:tney
 - Linux 程序设计       [百度云下载链接](https://pan.baidu.com/s/1hcYZfNBPR5GtZnRZd3u6LA)  密码:cems
 - Linux 命令行与 shell 脚本编程大全       [百度云下载链接](https://pan.baidu.com/s/1MZMxMiB52t_xO5OPHrLtlg)  密码:tr5u
+
 
 ## Linux环境编程
 
@@ -441,6 +451,8 @@
 
 - 开发自己的搜索引擎--Lucene+Heritrix       [百度云下载链接](https://pan.baidu.com/s/1HMYDToA5Vujn8MGlmilagw)  密码:h1oi
 - SolrJ教程       [百度云下载链接](https://pan.baidu.com/s/1JB5E-x3sdCNOIK483EkAfw)  密码:p0s6
+- Elasticsearch 权威指南       [百度云下载链接](https://pan.baidu.com/s/1e8kWIG6rE6ak3EhyCfTELg)  密码:9m8e
+- Elasticsearch 技术解析与实战       [百度云下载链接](https://pan.baidu.com/s/1zFCit5IE7egyC8ArWNdFwQ)  密码:yg98
 
 ## 网络安全
 
@@ -458,6 +470,7 @@
 ## Docker
 
 - 第一本Docker书       [百度云下载链接](https://pan.baidu.com/s/1haknxDmxy8Zb3tkBuue3vg)  密码:7dz6
+- Spring Cloud与Docker微服务架构实战       [百度云下载链接](https://pan.baidu.com/s/1I8TGhywKGbH35UXU-D2hOQ)  密码:yeem
 
 ## IoT
 ## Kubernets
