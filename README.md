@@ -110,6 +110,7 @@
 - Eclipse 插件开发学习笔记       [百度云下载链接](https://pan.baidu.com/s/1QmnVfn8iAR0ZnymnFHHTYw)  密码:ri78
 - 日志系统手册（Log4j、SLF4J、Logback、Log4j 2）       [百度云下载链接](https://pan.baidu.com/s/1dPwsQhT5OMVapE7hGi7vww)  密码:fxxy
 - IntelliJ IDEA 简体中文专题教程（电子版-2015）       [百度云下载链接](https://pan.baidu.com/s/1zyTQ_clx-lLFhjHvakJYBQ)  密码:wskm
+- GitHub入门与实践       [百度云下载链接](https://pan.baidu.com/s/1v7vAOLctPp3R_eGgjH02Rg)  密码:kidr
 
 # 框架
 
