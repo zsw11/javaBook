@@ -85,7 +85,7 @@
 
 # 入门
 
-- 教妹学Java       [百度云下载链接](https://pan.baidu.com/s/1T1gNwQB8nKsrIzHveJ9WKg)  密码:8tw7
+- 零基础学Java       [百度云下载链接](https://pan.baidu.com/s/1qwomiFHW6vZdVo26heMctg)  密码:1thn
 - Head First Java       [百度云下载链接](https://pan.baidu.com/s/14VZolSYQcyGKaG2WRpPB_w) 提取码:c07s 
 - Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/1Um_boa6CusUAfjIY6x6Gzw) 提取码:1fvj 
 - Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1cQYOWEMmHy8Z60I_NXRqug)  密码:9xcr
