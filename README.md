@@ -48,6 +48,7 @@
   - [Docker](#Docker)
   - [Kubernets](#Kubernets)
   - [IoT](#IoT)
+  - [测试](#测试)
   - [其他语言](#其他语言)
     - [C](#C)
     - [C++](#C++)
@@ -85,7 +86,7 @@
 
 # 入门
 
-- 零基础学Java       [百度云下载链接](https://pan.baidu.com/s/1qwomiFHW6vZdVo26heMctg)  密码:1thn
+- 教妹学Java       [百度云下载链接](https://pan.baidu.com/s/1qwomiFHW6vZdVo26heMctg)  密码:1thn
 - Head First Java       [百度云下载链接](https://pan.baidu.com/s/14VZolSYQcyGKaG2WRpPB_w) 提取码:c07s 
 - Java 核心技术卷       [百度云下载链接](https://pan.baidu.com/s/1Um_boa6CusUAfjIY6x6Gzw) 提取码:1fvj 
 - Java 编程思想       [百度云下载链接](https://pan.baidu.com/s/1cQYOWEMmHy8Z60I_NXRqug)  密码:9xcr
@@ -103,10 +104,12 @@
 - Java 趣味编程 100 例       [百度云下载链接](https://pan.baidu.com/s/1mxipMmn_4fY1AeLxqvp6Tw) 提取码:gfaq 
 - Java 入门 123       [百度云下载链接](https://pan.baidu.com/s/1l5b7HByO2adddG3qpjSvnA) 提取码:tdb0 
 - Java 网络编程       [百度云下载链接](https://pan.baidu.com/s/156lbtD6AAidIpgn6hdflsw) 提取码:6ovu 
+- GitHub 上标星 115k+ 的 Java 教程       [百度云下载链接](https://pan.baidu.com/s/1rT0l5ynzAQLF--efyRHzQw)  密码:dz95
 
 # 工具
 
 - Maven 实战       [百度云下载链接](https://pan.baidu.com/s/1wdoaqX37FyqxvXEAtIs_6A)  密码:daj5
+- Maven 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1BF7JMjLdpwXUkP-ckRsTRw)  密码:bztw
 - Git 权威指南       [百度云下载链接](https://pan.baidu.com/s/19ilSDLTi_fKQfAtNsLV9NA)  密码:sdvy
 - Eclipse 插件开发学习笔记       [百度云下载链接](https://pan.baidu.com/s/1QmnVfn8iAR0ZnymnFHHTYw)  密码:ri78
 - 日志系统手册（Log4j、SLF4J、Logback、Log4j 2）       [百度云下载链接](https://pan.baidu.com/s/1dPwsQhT5OMVapE7hGi7vww)  密码:fxxy
@@ -116,7 +119,9 @@
 # 框架
 
 - SpringBoot实战(第4版)       [百度云下载链接](https://pan.baidu.com/s/1HWJRkmDvmITX7cWgsIBgRA)  密码:y6c6
+- SpringMVC 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1gb9biSZoIXh3Au-kT5pkrw)  密码:1j0h
 - MyBatis 从入门到精通       [百度云下载链接](https://pan.baidu.com/s/1cYpBIyfJYR4-J8aNNG9MZQ)  密码:8vjv
+- MyBatis 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1I6wIKTpLJRmZrcAUdw0B-g)  密码:7zj7
 - Hibernate 实战       [百度云下载链接](https://pan.baidu.com/s/195sp0sK2vGOJAMBTfVwHrQ)  密码:piv6
 
 ## Struts2
@@ -127,6 +132,7 @@
 ## Spring
 
 - Spring 知识点概述       [百度云下载链接](https://pan.baidu.com/s/1u5b3BdTyVBAB1mgqzVp7Ow)  密码:1hcq
+- Spring 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/17nzGQQf5mD7i-WEHxXWLsg)  密码:zvob
 - Spring 技术手册       [百度云下载链接](https://pan.baidu.com/s/1XEKhXPJ03QO7ZELb1Zj84A)  密码:ox17
 - Spring 揭秘       [百度云下载链接](https://pan.baidu.com/s/1_ML4dS0zrcyLbXmO3ZjYxA)  密码:4lj7
 - Spring 实战       [百度云下载链接](https://pan.baidu.com/s/1WNp27wAzlbfpmg9cjGdc2w)  密码:lw0b
@@ -163,6 +169,7 @@
 - Redis 设计与实现       [百度云下载链接](https://pan.baidu.com/s/1N-0hp0pMFMz2YL16DnGPZg)  密码:spsz
 - Redis 深度历险：核心原理与应用实践       [百度云下载链接](https://pan.baidu.com/s/1YchFdEsF7aONNMFWnK50pA)  密码:uzwc
 - Redis 实战       [百度云下载链接](https://pan.baidu.com/s/1kyrS3935PIDWnBXB8HuVUA)  密码:otjw
+- Redis 入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1upM56tYlfwW3vQOVDg-qAA)  密码:iuj9
 - Redis 源代码分析       [百度云下载链接](https://pan.baidu.com/s/1qpMGWYm8KS7yZE3k1ps0pw)  密码:8q33
 
 ## MongoDB
@@ -188,12 +195,14 @@
 
 - 深入理解 Java 内存模型       [百度云下载链接](https://pan.baidu.com/s/19LNAAX9S282D0W0tt-cbMQ)  密码:k3c6
 - 深入理解 Java 虚拟机       [百度云下载链接](https://pan.baidu.com/s/1W8Z0RlzmmT0AGyjL8AZIMA)  密码:ke1i
+- 深入理解 Java 虚拟机读书笔记       [百度云下载链接](https://pan.baidu.com/s/12rhEuLhv_9wXha1Ehm6Tgg)  密码:ixev
 - 实战 Java 虚拟机 JVM 故障诊断与性能优化       [百度云下载链接](https://pan.baidu.com/s/1oOozhf6F0V9c817e59BbPQ)  密码:jzd7
 - Java JDK 学习笔记       [百度云下载链接](https://pan.baidu.com/s/1g-FsMSsPipStu_XIszLLVQ)  密码:9o05
 
 
 # 性能优化
 
+- 修改代码的艺术       [百度云下载链接](https://pan.baidu.com/s/1H-RBuouZd9hmZV8gE9rvTA)  密码:eg5x
 - 编写高质量代码：改善 Java 程序的 151 个建议       [百度云下载链接](https://pan.baidu.com/s/1ZoRs8Htl2Vzeixb9g7Uuog)  密码:hlnn
 - 代码整洁之道       [百度云下载链接](https://pan.baidu.com/s/14eaBwPRlMB2mha2VOnK0AA)  密码:ghyd
 - 代码之美精选版       [百度云下载链接](https://pan.baidu.com/s/1Q0yHUp4wPSyNp15tprytkQ)  密码:zlxp
@@ -230,6 +239,7 @@
 - 认识操作系统       [百度云下载链接](https://pan.baidu.com/s/1oNMbvR0fb7_LP7lIK2KTLw)  密码:2sm9
 - Windows 内核原理与实现       [百度云下载链接](https://pan.baidu.com/s/13G3jzzT5IbFoL0T5lLHa1Q)  密码:lpv9
 - 现代操作系统原书       [百度云下载链接](https://pan.baidu.com/s/130w-HDkE37XijQ6yvyHDdw) 提取码:7673
+- 计算机系统概论       [百度云下载链接](https://pan.baidu.com/s/1ZvkuSCoOP4XezzlJSyd07Q)  密码:xudx
 
 ## Linux基础知识
 
@@ -279,6 +289,7 @@
 
 - 啊哈算法       [百度云下载链接](https://pan.baidu.com/s/1h4HLGGh6ib5eQQqztLug6g)  密码:txid
 - 编程珠玑       [百度云下载链接](https://pan.baidu.com/s/1mwRuLWn0VL8HmjRsZey68A)  密码:2tv6
+- 编程珠玑续       [百度云下载链接](https://pan.baidu.com/s/1bxUlp06FYhveBtGaBnYlDA)  密码:me0y
 - 大话数据结构       [百度云下载链接](https://pan.baidu.com/s/11juOUZLPELW1B6tz_swgsA)  密码:i70v
 - 趣学算法       [百度云下载链接](https://pan.baidu.com/s/19jvWZNlCPr94U3g2T58tXA)  密码:qv4y
 - 数据结构与算法分析-Java 描述       [百度云下载链接](https://pan.baidu.com/s/1eTCJ8U6xlBcRK8h1snSVCA)  密码:b0l2
@@ -313,6 +324,8 @@
 
 # 大数据
 
+- 大数据-涂子沛       [百度云下载链接](https://pan.baidu.com/s/1llTFuMVIMSTQwjhK2BTccw)  密码:xhym
+- 数据之巅-涂子沛       [百度云下载链接](https://pan.baidu.com/s/1149U8gltXo6wuOM2DC8Sbg)  密码:gb3t
 - Kafaka 权威指南       [百度云下载链接](https://pan.baidu.com/s/1uiP2qd10-M9Fid84tOSk0g)  密码:xb4p
 - Spark 快速大数据分析       [百度云下载链接](https://pan.baidu.com/s/1HdD2xENio1d6EzHc8oK9Og)  密码:d9qx
 - Spark 快速数据处理       [百度云下载链接](https://pan.baidu.com/s/1zb8FD8qj4hyW6NHIFbWjUw)  密码:xvug
@@ -449,6 +462,8 @@
 
 ## 区块链
 ## 人工智能
+- 机器学习与实战       [百度云下载链接](https://pan.baidu.com/s/1O9q1c7pODoZjZcV1w5QjSg)  密码:buvz
+
 ## 搜索引擎
 
 - 开发自己的搜索引擎--Lucene+Heritrix       [百度云下载链接](https://pan.baidu.com/s/1HMYDToA5Vujn8MGlmilagw)  密码:h1oi
@@ -472,6 +487,7 @@
 ## Docker
 
 - 第一本Docker书       [百度云下载链接](https://pan.baidu.com/s/1haknxDmxy8Zb3tkBuue3vg)  密码:7dz6
+- Docker入门指南松哥版       [百度云下载链接](https://pan.baidu.com/s/1DNNAi11bfoKVWogjnnKuIg)  密码:q175
 - Spring Cloud与Docker微服务架构实战       [百度云下载链接](https://pan.baidu.com/s/1I8TGhywKGbH35UXU-D2hOQ)  密码:yeem
 
 ## IoT
@@ -479,14 +495,26 @@
 
 - KUBERNETES权威指南  从DOCKET到KURBERNETES实践全接触       [百度云下载链接](https://pan.baidu.com/s/19POddjLvy6PaADvaC1yLYg)  密码:njo1
 
+## 测试
+
+- 有效的单元测试       [百度云下载链接](https://pan.baidu.com/s/1nIxtJNYpYIGBJY_RXNLx4g)  密码:kbc4
+
 
 # 管理
 
 - 人月神话       [百度云下载链接](https://pan.baidu.com/s/10SwBDRr_ZMZN-q9N_hTcFw)  密码:ctf3
+- 人件       [百度云下载链接](https://pan.baidu.com/s/1bREWB6wK79g9M2w48yh9p)  密码:39iz
 - 微管理：给你一个技术团队，你该怎么管（全彩）       [百度云下载链接](https://pan.baidu.com/s/1QurLZsDK8SPHvWCGjgt0sA)  密码:u6ml
 
 # 加餐
 
+- 编程人生       [百度云下载链接](https://pan.baidu.com/s/1HhpY_BXryZVaDSeF_JHu2w)  密码:mmba
+- 程序员修炼之道：从小工到专家       [百度云下载链接](https://pan.baidu.com/s/1NIaXzOYnyb1-cxM4m9j60g)  密码:7yle
+- 代码大全       [百度云下载链接](https://pan.baidu.com/s/1EDT4RG0GOlns-7NmLUnNCw)  密码:geyj
+- 黑客与画家       [百度云下载链接](https://pan.baidu.com/s/1XM3_0wyytY4ipen0QQynhg)  密码:eyzn
+- 奇思妙想：15 位计算机天才及其重大发现       [百度云下载链接](https://pan.baidu.com/s/1LDKM-x8n5RSkFN01jrSRNA)  密码:fm21
+- 图灵的秘密       [百度云下载链接](https://pan.baidu.com/s/1RjldT-mfxyLa0b-2wm7XRQ)  密码:oa92
+- 我编程我快乐       [百度云下载链接](https://pan.baidu.com/s/171cMnqDt2amht9nBMk2V3w)  密码:tqnx
 - 《阿里技术参考图册》（算法篇）       [百度云下载链接](https://pan.baidu.com/s/1DdT84xRPa4SHmH2SQoRZ6w)  密码:4eev
 - 《阿里技术参考图册》（研发篇）       [百度云下载链接](https://pan.baidu.com/s/1xLJ2ArI93gCRa6b0cPBkrQ)  密码:hq1u
 - 程序员必知的硬核知识大全       [百度云下载链接](https://pan.baidu.com/s/1yCCvpQONyrwoSGsDlr1FWA)  密码:dp1p
