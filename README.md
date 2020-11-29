@@ -304,6 +304,7 @@
 # 面试
 
 - 2020年字节跳动Java 工程师面试题       [百度云下载链接](https://pan.baidu.com/s/1i0YAOKxUl59wP_9yKbeOKA)  密码:iozq
+- Google 师兄的刷题笔记       [百度云下载链接](https://pan.baidu.com/s/1ojBerkBfgMFpYcj-JfDKlw)  密码:5ttz
 - BAT面试常问80题       [百度云下载链接](https://pan.baidu.com/s/1l7UnWRdPwoQEINhHUmOmFw)  密码:c54x
 - 一线互联网企业面试题       [百度云下载链接](https://pan.baidu.com/s/11Nn8dLzh4npR02FWZSGGbA)  密码:wjrr
 - 编程之美       [百度云下载链接](https://pan.baidu.com/s/1sMG_Kp66XVRidLNFNd2Znw)  密码:ng5q
