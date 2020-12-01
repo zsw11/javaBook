@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-01T08:41:15.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="M_Q3Pt7GSOgLtLY3jgln" version="13.10.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-01T08:44:49.320Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="24C7UnRsHd48M6WSEvb6" version="13.10.3" type="github" pages="2">
   <diagram id="diSPx6sxwbUCZ3BAV0dR" name="Page-1">
     <mxGraphModel dx="809" dy="812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="1">
       <root>
@@ -383,6 +383,30 @@
         </mxCell>
         <mxCell id="_-GsrnVEYFFtmDMF3c5o-4" value="类 C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="2581" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-10" value="StringBuffer" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="698" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-11" value="StringBuilder" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;comic=1;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="698" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-13" value="线程安全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="825" y="758" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-14" value="非线程安全" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="758" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-16" value="synchronized" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="825" y="818" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-17" value="非 synchronized" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontSize=14;fontFamily=Verdana;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="818" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-21" value="比 StringBuilder 慢" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="825" y="878" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-GsrnVEYFFtmDMF3c5o-24" value="比 StringBuffer 快" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="878" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
