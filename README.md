@@ -504,7 +504,7 @@
 # 管理
 
 - 人月神话       [百度云下载链接](https://pan.baidu.com/s/10SwBDRr_ZMZN-q9N_hTcFw)  密码:ctf3
-- 人件       [百度云下载链接](https://pan.baidu.com/s/1bREWB6wK79g9M2w48yh9p)  密码:39iz
+- 人件       [百度云下载链接](https://pan.baidu.com/s/1bREWB6wK79g9M2w48yh9pQ)  密码:39iz
 - 微管理：给你一个技术团队，你该怎么管（全彩）       [百度云下载链接](https://pan.baidu.com/s/1QurLZsDK8SPHvWCGjgt0sA)  密码:u6ml
 
 # 加餐
